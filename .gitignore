@@ -1,0 +1,23 @@
+# Ignore build and debug files
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.vspscc
+
+# Ignore temporary files
+*.tmp
+*.log
+*.suo
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.app
+*.pkg
+*.so
+
+# Ignore directories
+.vscode/
+.idea/
